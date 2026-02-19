@@ -1,0 +1,4 @@
+~$*     # temp Excel files
+*.bak   # backups
+*.xlk   # autosave files
+
